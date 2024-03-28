@@ -87,7 +87,7 @@ global.charID1 = {
 }
 
 global.charID2 = {
-  botName : "Makima",
+  botName : "Makima MD",
   botVideo : "https://graph.org/file/de402b3a47195735ac60f.mp4",
   botImage1 : "https://images5.alphacoders.com/126/1264439.jpg",
   botImage2 : "https://images8.alphacoders.com/122/1227171.jpg",
